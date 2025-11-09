@@ -10,6 +10,7 @@ const App = () => {
       <Route path="/" element={<Home />} />
       <Route path="/create-todo" element={<CreateTodo />} />
       <Route path="/todo-list" element={<TodoList />} />
+      <Route path="*" element={<Home />} />
     </Routes>
   );
 };
