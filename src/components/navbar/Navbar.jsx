@@ -5,7 +5,14 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid">
         <NavLink className="navbar-brand" to="/">
-          D-Todos
+          <img
+            src="D.png"
+            alt=""
+            className=""
+            height="50px"
+            width="50px"
+            style={{ borderRadius: "10%" }}
+          />
         </NavLink>
         <button
           className="navbar-toggler"
