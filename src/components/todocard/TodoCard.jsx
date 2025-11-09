@@ -68,7 +68,7 @@ const TodoCard = ({ todo }) => {
                     className="btn btn-warning text-white font-bold"
                     onClick={handleAddTodo}
                   >
-                    upDate Todo
+                    UpDate Todo
                   </button>
                 </form>
               </div>
