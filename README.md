@@ -28,5 +28,5 @@ This app allows users to create, view, and manage todos with localStorage persis
 
 ---
 
-## 🏗️ Folder Structure
+
 
